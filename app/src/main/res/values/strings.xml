@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomDemo</string>
+    <string name="subscriber_s_email">Subscriber\'s Email</string>
+    <string name="subscriber_s_name">Subscriber\'s Name</string>
+</resources>
